@@ -1,4 +1,4 @@
-#  Omar Abdulla | Full-Stack Developer | Cybersecurity & Machine Learning Enthusiast
+#  Omer Abdalla | Full-Stack Developer | Cybersecurity & Machine Learning Enthusiast
 
 Hello! I'm **Omar Abdulla**, a student and developer passionate about **Cybersecurity**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
 
