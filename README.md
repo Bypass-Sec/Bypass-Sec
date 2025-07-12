@@ -1,6 +1,6 @@
-#  Omar Abdulla | Full-Stack Developer | AI % Machine Learning Enthusiast
+#  Omer Abdulla | Full-Stack Developer | AI & Machine Learning Enthusiast
 
-Hello! I'm **Omar Abdulla**, a student and developer passionate about **Artificial Intelligence Integration**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
+Hello! I'm **Omer Abdulla**, a student and developer passionate about **Artificial Intelligence Integration**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
 
 ---
 
