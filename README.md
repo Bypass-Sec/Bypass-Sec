@@ -1,6 +1,6 @@
-#  Omar Abdulla | Full-Stack Developer | Cybersecurity & Machine Learning Enthusiast
+#  Omar Abdulla | Full-Stack Developer | AI % Machine Learning Enthusiast
 
-Hello! I'm **Omar Abdulla**, a student and developer passionate about **Cybersecurity**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
+Hello! I'm **Omar Abdulla**, a student and developer passionate about **Artificial Intelligence Integration**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
 
 ---
 
@@ -24,8 +24,12 @@ Hello! I'm **Omar Abdulla**, a student and developer passionate about **Cybersec
 ## 📚 Current Focus
 
 - 📈 **Machine Learning:** Currently deep-diving into model building, data analysis, and AI.
-- 🔐 **Cybersecurity:** Exploring ethical hacking, penetration testing, and secure coding practices.
 - 🌐 **Full-Stack Development:** Building responsive and interactive web applications.
+-  🤖 **AI API Integration**
+# **Core AI Services**
+- **Gemini API**: Powering multilingual chatbots for beneficiary communication
+- **OpenAI GPT-4**: Generating nutritional guidelines and meal planning suggestions
+- **Custom ML Models**: Demand prediction using Python (scikit-learn/pandas)
 
 ---
 
