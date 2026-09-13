@@ -1,4 +1,4 @@
-# Omer Abdulla
+# Omer Sharif
 
 Student & Developer primarily focused on **Python**. I build web projects with **HTML, CSS, and JavaScript**, and leverage AI tools like **Claude** for AI-assisted development.
 
