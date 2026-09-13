@@ -1,42 +1,29 @@
-#  Omer Abdulla | Full-Stack Developer | AI & Machine Learning Enthusiast
+# Omer Abdulla
 
-Hello! I'm **Omer Abdulla**, a student and developer passionate about **Artificial Intelligence Integration**, **Web Development**, and **Machine Learning**. I'm constantly exploring new technologies, building secure applications, and diving into AI to make smarter, more efficient systems. Let's innovate together! 🤖
-
----
-
-## 🔧 Technologies & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-  <p/>
+Student & Developer primarily focused on **Python**. I build web projects with **HTML, CSS, and JavaScript**, and leverage AI tools like **Claude** for AI-assisted development.
 
 ---
 
-## 📚 Current Focus
+### 🛠️ Tech & Tools
 
-- 📈 **Machine Learning:** Currently deep-diving into model building, data analysis, and AI.
-- 🌐 **Full-Stack Development:** Building responsive and interactive web applications.
--  🤖 **AI API Integration**
-# **Core AI Services**
-- **Gemini API**: Powering multilingual chatbots for beneficiary communication
-- **OpenAI GPT-4**: Generating nutritional guidelines and meal planning suggestions
-- **Custom ML Models**: Demand prediction using Python (scikit-learn/pandas)
+**Core Languages:**
+- **Python** *(Primary)*
+- **JavaScript**
+- **HTML5 & CSS3**
+
+**Technologies I've worked with & contributed to:**
+- Next.js • TypeScript • React Native • Supabase • Git • VS Code
 
 ---
 
-##  Let's Connect!
+### 🎯 Current Focus
+
+- 🐍 **Python Development:** Building scripts, logic, and core programming projects.
+- 🌐 **Web Development:** Creating front-end web interfaces.
+- 🤖 **AI Integration:** Experimenting with LLM APIs (Gemini, OpenAI) and leveraging AI workflows.
+
+---
+
+### 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/omer-abdalla-2b7278339/)
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.”_ 🚀
